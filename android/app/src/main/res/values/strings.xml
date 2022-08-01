@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">ionic-splash-screen</string>
+    <string name="title_activity_main">ionic-splash-screen</string>
+    <string name="package_name">com.ionic.splash.screen</string>
+    <string name="custom_url_scheme">com.ionic.splash.screen</string>
+</resources>
